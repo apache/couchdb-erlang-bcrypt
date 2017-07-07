@@ -17,5 +17,5 @@
     ]},
     {maintainers, ["Hunter Morris", "Mrinal Wadhwa", "ErlangPack"]},
     {licenses, ["MIT"]},
-    {links, [{"Github", "https://github.com/smarkets/erlang-bcrypt"}]}
+    {links, [{"Github", "https://github.com/erlangpack/bcrypt"}]}
 ]}.
