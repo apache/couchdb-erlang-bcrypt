@@ -1,5 +1,5 @@
-erlang-bcrypt
-=============
+bcrypt
+======
 
 [![Build Status](https://travis-ci.org/erlangpack/bcrypt.svg?branch=master)](https://travis-ci.org/erlangpack/bcrypt)
 [![Hex pm](http://img.shields.io/hexpm/v/bcrypt.svg?style=flat)](https://hex.pm/packages/bcrypt)
